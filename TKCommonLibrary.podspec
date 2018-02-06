@@ -6,7 +6,7 @@ s.name = "TKCommonLibrary"
 s.summary = "TKCommonLibrary is framework with usable extensions written in Swift."
 s.requires_arc = true
 
-s.version = "0.0.1"
+s.version = "0.1.0"
 
 s.license = { :type => "MIT", :file => "LICENSE" }
 
